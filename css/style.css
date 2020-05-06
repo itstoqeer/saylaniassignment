@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ul li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.sep{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.sepp{
+    width: 250px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.end
+{
+    background-color: #343a40
+    ;
+}
+marquee{
+    text-decoration: white;
+    background-color: #007bff;
+}
+
+.menu{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.dropbtn {
+  background-color: #007bff ;
+  color: white;
+  padding: 15px;
+  font-size: medium;
+  border: none;
+  background-color: royalblue;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 8px;
+  z-index: 1;
+  padding-top: 15px;
+
+}
+.dropdown-content:avtice{
+  background-color: #007bff;
+}
+
+.dropdown-content a {
+  color: black;
+  font-size: medium;
+  padding: 8px 12px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #007bff;}
+.imeg{
+width: 1535px;
+}
+.imeg2{
+  image-orientation: inherit;
+  width: 1535px;
+
+}
+.imeg3{
+  
+  width: 1500px;
+
+}
+.imeg4{
+  
+  width: 600px;
+
+}
+.imeg4{
+  
+  width: 600px;
+
+}
+.img5{
+  align-content: right;
+  padding-left: 1000;
+  width: 600px;
+
+}
+.seppp{
+  
+  width: 100%;
+  height: 3px;
+  background-color: black;
+  display: block;
+}
